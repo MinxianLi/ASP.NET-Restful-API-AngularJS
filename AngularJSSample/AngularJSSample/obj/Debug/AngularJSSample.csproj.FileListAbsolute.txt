@@ -1,33 +1,12 @@
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\ApplicationInsights.config
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\roslyn\csc.exe
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\roslyn\Microsoft.CodeAnalysis.dll
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\roslyn\Microsoft.CSharp.Core.targets
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\roslyn\System.Collections.Immutable.dll
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\roslyn\System.Reflection.Metadata.dll
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\roslyn\vbc.exe
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\roslyn\VBCSCompiler.exe
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\roslyn\VBCSCompiler.exe.config
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\AngularJSSample.dll.config
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\AngularJSSample.dll
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\AngularJSSample.pdb
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\Microsoft.AI.Agent.Intercept.dll
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\Microsoft.AI.DependencyCollector.dll
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\Microsoft.AI.PerfCounterCollector.dll
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\Microsoft.AI.ServerTelemetryChannel.dll
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\Microsoft.AI.Web.dll
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\Microsoft.AI.WindowsServer.dll
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\Microsoft.ApplicationInsights.dll
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\Microsoft.AI.DependencyCollector.xml
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\Microsoft.AI.ServerTelemetryChannel.xml
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\Microsoft.AI.Web.xml
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\Microsoft.AI.WindowsServer.xml
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\Microsoft.ApplicationInsights.xml
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\obj\Debug\AngularJSSample.csprojResolveAssemblyReference.cache
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\obj\Debug\AngularJSSample.dll
-c:\users\minxianli\documents\visual studio 2015\Projects\AngularJSSample\AngularJSSample\obj\Debug\AngularJSSample.pdb
+C:\Users\Jaliya\Desktop\AngularJSSample\AngularJSSample\bin\AngularJSSample.dll.config
+C:\Users\Jaliya\Desktop\AngularJSSample\AngularJSSample\bin\AngularJSSample.dll
+C:\Users\Jaliya\Desktop\AngularJSSample\AngularJSSample\bin\AngularJSSample.pdb
+C:\Users\Jaliya\Desktop\AngularJSSample\AngularJSSample\obj\Debug\AngularJSSample.csprojResolveAssemblyReference.cache
+C:\Users\Jaliya\Desktop\AngularJSSample\AngularJSSample\obj\Debug\AngularJSSample.dll
+C:\Users\Jaliya\Desktop\AngularJSSample\AngularJSSample\obj\Debug\AngularJSSample.pdb
+D:\Download\AngularJSSample (1)\AngularJSSample\AngularJSSample\bin\AngularJSSample.dll.config
+D:\Download\AngularJSSample (1)\AngularJSSample\AngularJSSample\bin\AngularJSSample.dll
+D:\Download\AngularJSSample (1)\AngularJSSample\AngularJSSample\bin\AngularJSSample.pdb
+D:\Download\AngularJSSample (1)\AngularJSSample\AngularJSSample\obj\Debug\AngularJSSample.csprojResolveAssemblyReference.cache
+D:\Download\AngularJSSample (1)\AngularJSSample\AngularJSSample\obj\Debug\AngularJSSample.dll
+D:\Download\AngularJSSample (1)\AngularJSSample\AngularJSSample\obj\Debug\AngularJSSample.pdb
