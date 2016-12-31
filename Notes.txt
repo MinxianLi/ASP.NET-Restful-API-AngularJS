@@ -9,3 +9,11 @@ Routing in ASP.NET Web API (https://www.asp.net/web-api/overview/web-api-routing
 
 
 ASP.NET Web API 2 (https://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api)
+
+*****Creating an Empty ASP.NET Project Powered by AngularJS using Visual Studio*******
+(http://jaliyaudagedara.blogspot.com/2014/06/creating-empty-aspnet-project-powered.html)
+
+
+
+*****AngularJS Consuming ASP.NET Web API RESTful Services*******
+(http://jaliyaudagedara.blogspot.com/2014/08/angularjs-consuming-aspnet-web-api.html)
