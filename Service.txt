@@ -5,3 +5,9 @@
 3. $scope, is an object with properties and methods. Available for view and controller. 
 
 4. $rootScope, is available in the entire application.
+
+5. $timeout, $timeout(function(){}, 2000);
+
+6. $interval, $interval(function(){}, 2000);
+
+7. controller use $scope? custom service use this?
