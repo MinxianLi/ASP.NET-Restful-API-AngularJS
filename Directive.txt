@@ -1,0 +1,7 @@
+1. nf-if, true, insert a element.
+
+2. nf-show, true, show a element.
+
+3. nf-hide, true, hide a element.
+
+4. ng-repeat
